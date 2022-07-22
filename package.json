@@ -1,0 +1,19 @@
+{
+  "name": "nucampsite-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap version of Course website project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jge11/Nucampsite-Bootstrap.git"
+  },
+  "author": "Javier Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jge11/Nucampsite-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/jge11/Nucampsite-Bootstrap#readme"
+}
