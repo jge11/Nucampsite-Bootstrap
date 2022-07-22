@@ -2,9 +2,11 @@
   "name": "nucampsite-bootstrap",
   "version": "1.0.0",
   "description": "Bootstrap version of Course website project",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,15 @@
   "bugs": {
     "url": "https://github.com/jge11/Nucampsite-Bootstrap/issues"
   },
-  "homepage": "https://github.com/jge11/Nucampsite-Bootstrap#readme"
+  "homepage": "https://github.com/jge11/Nucampsite-Bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
 }
