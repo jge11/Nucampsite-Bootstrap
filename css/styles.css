@@ -12,7 +12,7 @@ h2 {
 header h2 {
   color: #cec8ff; }
 
-  .media {
+  /* .media {
     display: flex;
     align-items: flex-start;
   }
@@ -20,7 +20,7 @@ header h2 {
   .media-body {
     flex: 1;
   }
-  
+   */
 .site-footer {
   background-image: linear-gradient(#cec8ff, white);
   padding: 20px 0; }
